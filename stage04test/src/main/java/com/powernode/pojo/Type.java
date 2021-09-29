@@ -7,5 +7,10 @@ public class Type
 		
 	}
 
+	public String say(){
+
+
+		return name;
+	}
 
 }
